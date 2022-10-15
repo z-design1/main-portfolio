@@ -17,6 +17,7 @@ i {
 }  
 
 a {
+    text-decoration: none;
     padding-left: 0;
     padding: 1% 0 2% 1%;
 }
