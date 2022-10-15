@@ -17,7 +17,6 @@ i {
 }  
 
 a {
-    text-decoration: none;
     padding-left: 0;
     padding: 1% 0 2% 1%;
 }
@@ -65,6 +64,10 @@ button:hover {
 
 
 /* Classes */
+
+.social-link {
+    text-decoration: none;
+}
 
 .logo {
     width: 90px;
